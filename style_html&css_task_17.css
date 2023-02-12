@@ -1,0 +1,46 @@
+body{
+	background: lightseagreen;
+}
+div{
+	border: 2px solid black;
+}
+.main{
+	border: 2px solid black;
+	padding: 30px;
+	width: 280px;
+	height: 207px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -103px 0 0 -140px;
+}
+.red{
+	background: red;
+	width: 73px;
+	height: 50px;
+	float: left;
+	margin-bottom: 25px;
+	margin-right: 25px;
+}
+.green{
+	background: green;
+	width: 165px;
+	height: 125px;	
+	float: right;
+}
+.blue{
+	background: blue;
+	width: 73px;
+	height: 125px;
+	margin-right: 25px;
+	float: left;
+	clear: left;		
+}
+.yellow{
+	background: yellow;
+	width: 165px;
+	height: 50px;
+	float: right;
+	clear: right;
+	margin-top: 25px;
+}
